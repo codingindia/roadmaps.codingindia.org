@@ -32,7 +32,7 @@ Step by Step guide to learn python.
    * Index Slicing 
 4) File Handling
    * Reading and Writing File
-   * Context Manager - With Keywork
+   * Context Manager - With Keyword
    * OS Module
    * Shutil Module
    * Managing Files and Directories
