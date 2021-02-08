@@ -1,5 +1,5 @@
 # Python
-Step by Step guide to learn python.
+Follow the Steps to learn Python. (Resources adding soon)
 
 1) Introduction
    * Ask yourself, "Why Python?"
