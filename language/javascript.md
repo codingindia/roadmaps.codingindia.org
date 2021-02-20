@@ -4,7 +4,7 @@ Follow the Steps to learn Java Script Fundamentals (Resources coming soon!!)
 
 1. How to run Javascript
    * Setup 
-   * Linking Exteral File
+   * Linking External File
    * <Script> Tag
    * Browser Console
 
@@ -19,12 +19,12 @@ Follow the Steps to learn Java Script Fundamentals (Resources coming soon!!)
    * Identifiers
    * Reserved Words
   
-2. Variables Declaration
+4. Variables Declaration
    * var
    * let
    * const
 
-3. Variable Scope
+5. Variable Scope
    * Types 
       * Global
       * Block
@@ -32,21 +32,96 @@ Follow the Steps to learn Java Script Fundamentals (Resources coming soon!!)
    * Hoisting
    * Scope Chaining
 
-4. Primitive Data Types
+6. Primitive Data Types
    * Boolean
    * Number
    * String
    
-5. Primitive Data Values
+7. Primitive Data Values
    * null
    * undefined
 
-6. Object Types
+8. Object Types
    * Array
    * Object
    * Function
    * Global Object
 
+9. Type Conversion
+   * Implicit 
+   * Explicit
+   * Equality 
 
+10. Operators
+   * Arithmetic 
+   * Relational
+   * Logical
+   * Assignment
+   * Evaluation
+   * Conditional
+   * Bitwise
+   * String 
+   * Comma
+   * Unary
+   * void / delete / typeof
+   
 
-  
+11. Conditional Statements
+   * if
+   * else / if
+   * switch
+
+12. Conditional Loops
+     * while
+     * do / while
+     * for
+     * for / in
+
+13. Jump Statements
+     * Labeled 
+     * break
+     * continue
+     * return
+     * throw
+     * try / catch / finally
+
+14. Functions
+     * First-Class Citizen
+     * Declaration
+     * Invoking
+     * Parameter and Arguments
+     * Function as Value
+     * Function as Namespace
+     * Scope
+     * Arrow Function
+     * Closures
+     * Callbacks
+     * Currying
+
+15. Objects and Classes
+     * Declaration
+     * Properties
+     * Methods
+     * Prototypes
+     * Constructors
+     * Prototypical Inheritance
+     * that/this
+     * Scope/NameSpace
+
+16. Arrays
+     * Creation
+     * Insert / Delete
+     * Iteration
+     * Types
+     * Methods
+
+17. Built-In Objects
+     * Map / Weak Map
+     * Set / Weak Set
+     * JSON
+     * Promise
+     * Generator
+     * Function
+     * RegEx
+     * Error
+     * Date
