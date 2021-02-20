@@ -53,74 +53,74 @@ Follow the Steps to learn Java Script Fundamentals (Resources coming soon!!)
    * Equality 
 
 10. Operators
-   * Arithmetic 
-   * Relational
-   * Logical
-   * Assignment
-   * Evaluation
-   * Conditional
-   * Bitwise
-   * String 
-   * Comma
-   * Unary
-   * void / delete / typeof
+    * Arithmetic 
+    * Relational
+    * Logical
+    * Assignment
+    * Evaluation
+    * Conditional
+    * Bitwise
+    * String 
+    * Comma
+    * Unary
+    * void / delete / typeof
    
 11. Conditional Statements
-   * if
-   * else / if
-   * switch
+    * if
+    * else / if
+    * switch
 
 12. Conditional Loops
-   * while
-   * do / while
-   * for
-   * for / in
+    * while
+    * do / while
+    * for
+    * for / in
 
 13. Jump Statements   
-   * Labeled 
-   * break
-   * continue
-   * return
-   * throw
-   * try / catch / finally
+    * Labeled 
+    * break
+    * continue
+    * return
+    * throw
+    * try / catch / finally
 
 14. Functions
-   * First-Class Citizen
-   * Declaration
-   * Invoking
-   * Parameter and Arguments
-   * Function as Value
-   * Function as Namespace
-   * Scope
-   * Arrow Function
-   * Closures
-   * Callbacks
-   * Currying
+    * First-Class Citizen
+    * Declaration
+    * Invoking
+    * Parameter and Arguments
+    * Function as Value
+    * Function as Namespace
+    * Scope
+    * Arrow Function
+    * Closures
+    * Callbacks
+    * Currying
 
 15. Objects and Classes
-   * Declaration
-   * Properties
-   * Methods
-   * Prototypes
-   * Constructors
-   * Prototypical Inheritance
-   * that/this
-   * Scope/NameSpace
+    * Declaration
+    * Properties
+    * Methods
+    * Prototypes
+    * Constructors
+    * Prototypical Inheritance
+    * that/this
+    * Scope/NameSpace
 
 16. Arrays
-   * Creation
-   * Insert / Delete
-   * Iteration
-   * Types
-   * Methods
+    * Creation
+    * Insert / Delete
+    * Iteration
+    * Types
+    * Methods
 
 17. Built-In Objects
-   * Map / Weak Map
-   * Set / Weak Set
-   * JSON
-   * Promise
-   * Generator
-   * Function
-   * RegEx
-   * Error
-   * Date
+    * Map / Weak Map
+    * Set / Weak Set
+    * JSON
+    * Promise
+    * Generator
+    * Function
+    * RegEx
+    * Error
+    * Date
