@@ -12,31 +12,55 @@ Follow the Steps to learn Python. (Resources adding soon)
 2) Basics
    * Comments
    * Escape Sequence
+   * Indentation and Whitespaces
    * Take Input and Print Statements
-   * Data Types
    * Operators in Python
+   * Variables
    * Variable Scope
-   * String Formating
-   * Control Flow
-      * If Else Statements
-      * For Loop
-      * While Loop
-      * Break and Continue
-      * Exception Handling
-   * Writing Functions 
-3) Data Structures
+   * Reserved Keywords
+   
+3) Data Types
+   * Integer
+   * Float 
+   * Complex Number
+   * String
+      * String Formating
+   * Boolean
+   * Built-In Functions
+   
+4) Control Flow
+   * If Else Statements
+   * For Loop
+   * While Loop
+   * Break and Continue
+   * Exception Handling
+   
+5) Data Structures
    * Lists
    * Tuples
    * Sets
    * Dictionaries
    * Index Slicing 
-4) File Handling
+
+6) Functions 
+   * Function Definition
+   * Function Call
+   * Argument Passing
+      * Positional
+      * Keyword
+      * Default
+   * Return Statement
+   * Argument Packing and Unpacking (*args, \**kwargs)
+   * DocString
+   
+7) File Handling
    * Reading and Writing File
    * Context Manager - With Keyword
    * OS Module
    * Shutil Module
    * Managing Files and Directories
-5) Object Oriented Programming
+   
+8) Object Oriented Programming
    * Classes 
    * Methods, Dunders
    * Inheritances
